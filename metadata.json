@@ -1,0 +1,6 @@
+{
+  "name": "Dukaan Saathi",
+  "description": "AI selling assistant for small shop and home-business owners in Pakistan. Upload a product photo to generate titles, descriptions, selling points, social captions, WhatsApp messages, and photo tips in English, Urdu, or Roman Urdu.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
